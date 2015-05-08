@@ -55,7 +55,7 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
-    <Content Include="..\SalesforceSDK\Salesforce.SDK.Core\Resources\servers.xml">
+    <Content Include="..\SalesforceMobileSDK-Windows\SalesforceSDK\Salesforce.SDK.Core\Resources\servers.xml">
       <Link>data\servers.xml</Link>
     </Content>
     <Content Include="data\bootconfig.json" />
